@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Profile</title>
+    </head>
+    
+    <body>
+        <fieldset>
+            <legend style="text-align: center;"><b>Profile</b></legend>
+        <center><img style="border-radius: 10px;" src="https://t3.ftcdn.net/jpg/05/56/29/10/360_F_556291020_q2ieMiOCKYbtoLITrnt7qcSL1LJYyWrU.webp" height="auto" width="30%"></center>
+        <hr>
+        <center>
+        <b>
+        <span>Name:</span>
+        <span>sahil petkar</span><br><br><hr>
+        <span>Section:</span>
+        <span>E</span><br><br><hr>
+        <span>Branch:</span>
+        <span>CSE AI&Ml</span><br><br><hr>
+        <span>Addmission year:</span>
+        <span>2023</span><br><br><hr>
+        <span>About:</span>
+        <span>Enter about yourself</span><br><br><hr>
+            
+            </b>
+        </center>
+    </fieldset>
+    </body>
+</html>
